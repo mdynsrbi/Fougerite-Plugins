@@ -1,1 +1,1 @@
-# RustLegacy-Plugins
+# Rust Legacy Plugins
